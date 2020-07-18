@@ -4,13 +4,23 @@ description: Wir tuen Gutes
 
 # Auswahl des Projekts
 
-Nach Angabe des Namens, der Teamnummer und des Passkey gelangst Du nach Auswahl der Schaltfläche “Save” in die Übersicht. In dieser Übersicht ist noch eine wichtige Einstellung vorzunehmen: das Projekt, welches Du unterstützen möchtest.
+Nach Angabe des Namens, der Teamnummer und des Passkey gelangst Du nach Auswahl der Schaltfläche “Save” in die Übersicht. 
 
-![](.gitbook/assets/img3.de.png)
+In dieser Übersicht ist jetzt noch eine wichtige Einstellung vorzunehmen: das Projekt, welches Du unterstützen möchtest.
+
+![](../.gitbook/assets/img3.de.png)
 
 Du kannst aber auch jederzeit ein anderes Projekt unterstützen, da die Punkte nach jeder erfolgreicher Berechnung dem Team "Red Insurance Lions Worldwide" zugesprochen werden. Wir bitten Dich aber aktuell für das Projekt **COVID-19** rechnen zu lassen.
 
-![](.gitbook/assets/img4.de.png)
+Hierzu ist folgende Auswahl in der Liste zu treffen:
+
+| Feld | Inhalt |
+| :--- | :--- |
+| I support research fighting | COVID-19 |
+
+Mit der Auswahl werden alle zukünftigen Berechnungen für dieses Projekt vorgenommen. 
+
+![](../.gitbook/assets/img4.de.png)
 
 Möchtest Du zudem die Berechnung etwas schneller durchführen lassen und Du bist nicht auf die Performance Deines Systems angewiesen, dann kannst Du mit dem Schieberegler
 

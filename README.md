@@ -1,17 +1,15 @@
+---
+description: Gemeinsam. Digital. Für ein Heilmittel.
+---
+
 # Kurzanleitung Ersteinrichtung des Folding@Home-Clients
-
-## Gemeinsam. Digital. Für ein Heilmittel.
-
-Projekt COVID-19  
-Team “Red Insurance Lions”  
-Team ID 263581
 
 An dieser Stelle möchten wir Euch eine Anleitung zur Einrichtung der Folding@Home-Clients zu Gunsten der COVID-19-Forschung an einem gemeinsamen, privaten Engagement mitzuwirken.
 
 Über die Navigation am linken Bildschirmrand könnt ihr die Schritte zur Einrichtung des Clients nachlesen. Im Grunde ist es aber ganz einfach:
 
 1. Download des Clients
-2. Installtion des Clients
+2. Installation des Clients
 3. Konfiguration des Clients
 
 Danach arbeitet das Programm bei jedem Systemstart automatisch in Hintergrund und unterstützt das Folding@Home-Projekt und unser Team.
