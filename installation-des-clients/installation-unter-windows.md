@@ -1,4 +1,4 @@
-# Installation unter Windows
+# Installation unter Windows \(tbt\)
 
 Dieser Abschnitt beschreibt die benutzerdefinierten Installation des F@HClients unter Windows XP und neuer. Es wird von einer Erstinstallation ausgegangen, und sofern nicht anders angegeben, ist die Standardeinstellung für jede Option die empfohlene Einstellung.
 

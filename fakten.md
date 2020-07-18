@@ -1,6 +1,10 @@
-# Fakten
+# Fact sheet
 
-Projekt COVID-19  
-Team “Red Insurance Lions”  
-Team ID 263581
+|  |  |
+| :--- | :--- |
+| Project | COVID-19 |
+| Team name | Red Insurance Lions |
+| Team ID | 263581 |
+
+ 
 

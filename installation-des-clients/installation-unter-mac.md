@@ -1,4 +1,4 @@
-# Installation unter Mac
+# Installation on Mac \(tbd\)
 
-\(Seite im Aufbau\)
+\(page under construction\)
 

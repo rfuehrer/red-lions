@@ -1,4 +1,4 @@
-# Auswahl des Teams
+# Auswahl des Teams \(tbt\)
 
 Beim ersten Aufruf oder durch Auswahl von dem Link “Change Identity” könnt ihr hier die wichtigsten Daten angeben:
 

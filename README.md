@@ -1,24 +1,24 @@
 ---
-description: Gemeinsam. Digital. Für ein Heilmittel.
+description: Together. Digital. For a cure.
 ---
 
-# Kurzanleitung Ersteinrichtung des Folding@Home-Clients
+# Quick guide for initial setup of the Folding@Home client
 
-An dieser Stelle möchten wir Euch eine Anleitung zur Einrichtung der Folding@Home-Clients zu Gunsten der COVID-19-Forschung an einem gemeinsamen, privaten Engagement mitzuwirken.
+At this point we would like to give you a guide to set up the Folding@Home clients for the benefit of COVID-19 research to participate in a common, private commitment. You can read the steps to set up the client by using the navigation on the left side of the screen. 
 
-Über die Navigation am linken Bildschirmrand könnt ihr die Schritte zur Einrichtung des Clients nachlesen. Im Grunde ist es aber ganz einfach:
+Basically it is quite simple: 
 
-1. Download des Clients
-2. Installation des Clients
-3. Konfiguration des Clients
+1. Download the client 
+2. Installation of the client 
+3. Configuration of the client
 
-Danach arbeitet das Programm bei jedem Systemstart automatisch in Hintergrund und unterstützt das Folding@Home-Projekt und unser Team.
+Afterwards the program works automatically in the background at every system start and supports the Folding@Home project and our team.
 
 {% hint style="info" %}
-Wir bieten in der Zwischenzeit auch eine Backend-Komponente zur Ermittlung des Team-Ranking an. Wir können dadurch jede Veränderung eines Rankings ermitteln und nachvollziehen. Diese Funktion ist als Python in einem Docker flexible einsetzbar und kann auf jedes beliebige Team angepasst werden. Du findets weitere Informationen im Ordner [Backend](https://github.com/generaliinformatik/fah-red-lions/tree/master/backend).
+In the meantime, we also offer a backend component to determine the team ranking. This enables us to determine and track every change in a ranking. This function can be used flexibly as a Python in a docker and can be adapted to any team. You can find more information in the [Backend](https://github.com/generaliinformatik/fah-red-lions/tree/master/backend) folder.
 {% endhint %}
 
-In diesem Sinne:
+In that spirit:
 
 Happy contributing!
 

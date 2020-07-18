@@ -1,8 +1,8 @@
 ---
-description: Falls Du es wirklich möchtest
+description: If you really want to
 ---
 
-# Deinstallation des Clients
+# Deinstallation des Clients \(tbt\)
 
-\(Seite im Aufbau\)
+\(page under construction\)
 

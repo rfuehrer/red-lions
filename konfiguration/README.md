@@ -1,4 +1,4 @@
-# Konfiguration
+# Configuration
 
-Mit den richtigen Einstellungen unterstützt Du sowohl die COVID-19-Forschung als auch das Red Lions-Team. Auf den folgenden Seiten erfährst Du, welche einfachen Einstellungen vorzunehmen sind.
+With the right settings, you can support both COVID 19 research and the Red Lions team. On the following pages, you will learn how to make the settings easily.
 

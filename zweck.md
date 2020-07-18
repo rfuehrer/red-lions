@@ -1,12 +1,12 @@
 ---
-description: Warum machen wir das eigentlich?
+description: Why are we doing this?
 ---
 
-# Zweck
+# Purpose
 
-Mit der Unterstützung von „Folding@Home“ können wir uns alle an der digitalen Suche nach einem Heilmittel gegen das Virus SARS-CoV-2 \("Corona-Krise"\).
+With the support of "Folding@Home" we can all participate in the digital search for a cure for the SARS-CoV-2 virus \("Corona crisis"\).
 
-Mit einer Beteiligung an dieser digitalen Initiative senden wir ein positives Signal an alle Kollegen:innen, Freunde, Bekannten und Partner im Home Office zum Mitmachen. Jeder kann sich freiwillig mit Rechenleistung des privaten PCs an unserem F@H-Team „The Red Insurance Lions“ \("Red Lions"\) engagieren.
+By participating in this digital initiative, we send a positive signal to all colleagues, friends, acquaintances and partners in the home office to join in. Everyone can volunteer the computing power of their private PC to join our F@H team "The Red Insurance Lions" \("Red Lions"\).
 
-Die Suche nach einem Heilmittel sehen wir in unserer aller Verantwortung, unsere Familie, Freunde, Bekannten, Kollegen und Kunden langfristig vor einer Erkrankung aber auch vor den Auswirkungen durch das Virus zu schützen.
+We see the search for a cure in all of our responsibilities to protect our family, friends, acquaintances, colleagues and customers in the long term from illness but also from the effects of the virus.
 

@@ -1,8 +1,8 @@
 ---
-description: Warum sollte ich ein Team-Mitglied werden?
+description: Why should I become a team member?
 ---
 
-# Das Team
+# Our Team \(tbd\)
 
-\(Seite im Aufbau\)
+\(page under construction\)
 

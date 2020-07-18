@@ -1,16 +1,14 @@
 ---
-description: Erste Schritte
+description: First steps
 ---
 
-# Download des Clients
+# Download of client
 
-Durch den Aufruf der Seite
+By visiting the page
 
-[https://foldingathome.org/start-folding/](https://foldingathome.org/start-folding/)
+[https://foldingathome.org/start-folding/](https://foldingathome.org/start-folding/) 
 
-könnt ihr den Client für Euer Betriebssystem herunterladen.
+you can download the client for your operating system. Clients are available for Windows, Mac, Linux, Android and as VMware. Furthermore, images for Docker/Openshift are offered. In this manual we will concentrate on the clients Windows and Mac for the time being. 
 
-Es stehen Clients für Windows, Mac, Linux, Android und als VMware zur Verfügung. Darüber hinaus werden Images für Docker/Openshift angeboten. Wir konzentrieren uns in dieser Anleitung aber erstmal auf die Clients Windows und Mac.
-
-Alle Downloads findet Ihr in der Übersicht unter [https://foldingathome.org/alternative-downloads/](https://foldingathome.org/alternative-downloads/) .
+You can find all downloads in the overview at [https://foldingathome.org/alternative-downloads/](https://foldingathome.org/alternative-downloads/) .
 

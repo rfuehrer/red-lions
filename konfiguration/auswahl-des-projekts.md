@@ -2,7 +2,7 @@
 description: Wir tuen Gutes
 ---
 
-# Auswahl des Projekts
+# Auswahl des Projekts \(tbt\)
 
 Nach Angabe des Namens, der Teamnummer und des Passkey gelangst Du nach Auswahl der Schaltfläche “Save” in die Übersicht. 
 
