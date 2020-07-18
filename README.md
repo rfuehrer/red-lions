@@ -1,2 +1,2 @@
-# red-lions
-Red Lions Documentation
+# Willkommen beim Team "Red Lions"
+
