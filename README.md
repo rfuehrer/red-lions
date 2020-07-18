@@ -1,5 +1,5 @@
 ---
-description: Gemeinsam. Digital. Für ein Heilmittel.
+description: Gemeinsam. Digital. Für ein Heilmittel.1
 ---
 
 # Kurzanleitung Ersteinrichtung des Folding@Home-Clients

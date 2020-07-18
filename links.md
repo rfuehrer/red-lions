@@ -14,5 +14,5 @@ description: Alle Links nochmal zusammengefasst
 
 {% embed url="https://github.com/generaliinformatik/fah-red-lions/tree/master/backend" caption="Unsere Backend-Komponente" %}
 
-
+{% embed url="http://red-lions.dynv6.net:48888/" caption="Entwicklung des Team-Rangs" %}
 
