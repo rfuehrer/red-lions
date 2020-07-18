@@ -15,7 +15,7 @@ An dieser Stelle möchten wir Euch eine Anleitung zur Einrichtung der Folding@Ho
 Danach arbeitet das Programm bei jedem Systemstart automatisch in Hintergrund und unterstützt das Folding@Home-Projekt und unser Team.
 
 {% hint style="info" %}
-Wir bieten in der Zwischenzeit auch eine Backend-Komponente zur Ermittlung des Team-Ranking an. Wir können dadurch jede Veränderung eines Rankings ermitteln und nachvollziehen. Diese Funktion ist als Python in einem Docker flexible einsetzbar und kann auf jedes beliebige Team angepasst werden. Du findets weitere Informationen im Ordner [Backend](backend/).
+Wir bieten in der Zwischenzeit auch eine Backend-Komponente zur Ermittlung des Team-Ranking an. Wir können dadurch jede Veränderung eines Rankings ermitteln und nachvollziehen. Diese Funktion ist als Python in einem Docker flexible einsetzbar und kann auf jedes beliebige Team angepasst werden. Du findets weitere Informationen im Ordner [Backend](https://github.com/generaliinformatik/fah-red-lions/tree/master/backend).
 {% endhint %}
 
 In diesem Sinne:
