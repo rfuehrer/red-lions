@@ -11,7 +11,6 @@
   * [Eindeutiger Schlüssel / Passkey \(optional\) \(tbt\)](konfiguration/eindeutiger-schluessel-passkey-optional.md)
   * [Auswahl des Projekts \(tbt\)](konfiguration/auswahl-des-projekts.md)
 * [Deinstallation des Clients \(tbt\)](deinstallation-des-clients.md)
-* [Our Team \(tbd\)](das-team.md)
+* [Our Team](das-team.md)
 * [References](links.md)
-* [Fact sheet](fakten.md)
 
