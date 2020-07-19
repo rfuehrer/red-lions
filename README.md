@@ -15,7 +15,7 @@ An dieser Stelle möchten wir Euch eine Anleitung zur Einrichtung der Folding@Ho
 |  Einstellung | Wert​ |
 | :--- | :--- |
 | Project | COVID-19 |
-| Team name | Red Insurance Lions |
+| Team name | The Red Insurance Lions - Worldwide |
 | Team ID | 263581 |
 
 Danach arbeitet das Programm bei jedem Systemstart automatisch in Hintergrund und unterstützt das Folding@Home-Projekt und unser Team.
