@@ -1,5 +1,5 @@
 ---
-description: Gemeinsam. Digital. Für ein Heilmittel.1
+description: Gemeinsam. Digital. Für ein Heilmittel.
 ---
 
 # Kurzanleitung Ersteinrichtung des Folding@Home-Clients
@@ -8,9 +8,9 @@ An dieser Stelle möchten wir Euch eine Anleitung zur Einrichtung der Folding@Ho
 
 Über die Navigation am linken Bildschirmrand könnt ihr die Schritte zur Einrichtung des Clients nachlesen. Im Grunde ist es aber ganz einfach:
 
-1. Download des Clients
-2. Installation des Clients
-3. Konfiguration des Clients; folgende Werte sind für unser Team anzugeben
+1. [Download des Clients](download-des-clients.md)
+2. [Installation des Clients](installation-des-clients/)
+3. [Konfiguration des Clients](konfiguration/); folgende Werte sind für unser Team anzugeben
 
 |  Einstellung | Wert​ |
 | :--- | :--- |
