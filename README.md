@@ -8,9 +8,9 @@ At this point we would like to give you a guide to set up the Folding@Home clien
 
 Basically it is quite simple: 
 
-1. Download the client 
-2. Installation of the client 
-3. Configuration of the client; the following settings should be specified for our team:
+1. [Download the client ](download-des-clients.md)
+2. [Installation of the client ](installation-des-clients/)
+3. [Configuration of the client](konfiguration/); the following settings should be specified for our team:
 
 |  |  |
 | :--- | :--- |

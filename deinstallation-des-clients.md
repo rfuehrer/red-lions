@@ -2,7 +2,7 @@
 description: If you really want to
 ---
 
-# Deinstallation des Clients \(tbt\)
+# Deinstallation of the client \(tbt\)
 
 \(page under construction\)
 
