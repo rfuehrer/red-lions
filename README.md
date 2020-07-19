@@ -15,7 +15,7 @@ Basically it is quite simple:
 |  |  |
 | :--- | :--- |
 | Project | COVID-19 |
-| Team name | Red Insurance Lions |
+| Team name | The Red Insurance Lions - Worldwide |
 | Team ID | 263581 |
 
 Afterwards the program works automatically in the background at every system start and supports the Folding@Home project and our team.
