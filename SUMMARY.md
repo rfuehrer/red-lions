@@ -13,5 +13,4 @@
 * [Deinstallation des Clients](deinstallation-des-clients.md)
 * [Das Team](das-team.md)
 * [Links](links.md)
-* [Fakten](fakten.md)
 
