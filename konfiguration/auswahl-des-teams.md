@@ -6,7 +6,8 @@ Beim ersten Aufruf oder durch Auswahl von dem Link “Change Identity” könnt 
 
 | _Feld_ | Inhalt |
 | :--- | :--- |
-| Name | _Dein Name oder Pseudonym \(möglichst eindeutig\)_ Passkey: _Dein individueller Passkey \(siehe Abschnitt “Passkey”\)_ |
+| Name | _Dein Name oder Pseudonym \(möglichst eindeutig\)_  |
+| Passkey | _Dein individueller Passkey \(siehe Abschnitt “Passkey”\)_ |
 
 Wichtig ist die Eingabe der richtigen Team Number für das Red Insurance Lions Worldwide-Team:
 
