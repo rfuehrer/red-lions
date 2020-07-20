@@ -4,6 +4,10 @@ description: Together. Digital. For a cure.
 
 # Quick guide for initial setup of the Folding@Home client
 
+{% hint style="info" %}
+Für eine andere Sprache der Anleitung kann oben links eine andere Version der Anleitung ausgewählt werden.
+{% endhint %}
+
 At this point we would like to give you a guide to set up the Folding@Home clients for the benefit of COVID-19 research to participate in a common, private commitment. You can read the steps to set up the client by using the navigation on the left side of the screen. 
 
 Basically it is quite simple: 
