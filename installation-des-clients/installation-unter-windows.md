@@ -1,9 +1,9 @@
 # Installation unter Windows
 
-Dieser Abschnitt beschreibt die benutzerdefinierten Installation des F@HClients unter Windows XP und neuer. Es wird von einer Erstinstallation ausgegangen, und sofern nicht anders angegeben, ist die Standardeinstellung für jede Option die empfohlene Einstellung.
+Dieser Abschnitt beschreibt die benutzerdefinierten Installation des F@H-Clients unter Windows XP und neuer. Es wird von einer Erstinstallation ausgegangen, und sofern nicht anders angegeben, ist die Standardeinstellung für jede Option die empfohlene Einstellung.
 
 {% hint style="info" %}
-Für die Installation eines V7 FAHClient-Steckplatzes zur Ausführung als Dienst \(eine Option etwas später im Setup\) muss das Windows XP-Benutzerkonto, unter dem das Installationsprogramm läuft, über Administratorrechte verfügen.
+Für die Installation des F@H-Clients zur Ausführung als Dienst \(eine Option etwas später im Setup\) muss das Windows XP-Benutzerkonto, unter dem das Installationsprogramm läuft, über Administratorrechte verfügen.
 {% endhint %}
 
 In Windows Vista und neueren Versionen muss das Installationsprogramm mit der Option Als Administrator ausführen geöffnet werden. Klicken Sie dazu mit der rechten Maustaste auf das Symbol des Installationsprogramms und dann auf Als Administrator ausführen. Wenn Sie zur Eingabe eines Administrator-Passworts oder zur Bestätigung aufgefordert werden, geben Sie das Passwort ein oder bestätigen Sie es.
@@ -22,7 +22,7 @@ Der Begrüßungsbildschirm wird angezeigt. Klicken Sie auf Weiter, um die Instal
 
 ![](../.gitbook/assets/wininst02.png)
 
-Lesen Sie die Lizenzvereinbarung \(siehe Abbildung 4\).
+Lesen Sie die Lizenzvereinbarung.
 
 ![](../.gitbook/assets/wininst03.png)
 
@@ -52,13 +52,13 @@ Ein alternativer Datenverzeichnisordner kann für die Konfiguration und den Spei
 
 ![Wie m&#xF6;chten Sie den Client starten?](../.gitbook/assets/wininst08.png)
 
-Die Optionen zum Start der Software werden angezeigt. Diese sind sehr wichtig, um festzulegen, wie der FAHClient zukünftig gestartet wird. Außerdem wird ausgewählt, ob und wie die FAHClient-Steckplätze auf diesem Rechner von FAHControl gesteuert und überwacht werden.
+Die Optionen zum Start der Software werden angezeigt. Diese sind sehr wichtig, um festzulegen, wie der F@H-Client zukünftig gestartet wird. Außerdem wird ausgewählt, ob und wie der F@H-Client auf diesem Rechner von FAHControl gesteuert und überwacht werden.
 
 Die in der Abbildung dargestellten Optionen zum automatischen Start entsprechen den bei der Express-Installation verwendeten Standardeinstellungen und sind die empfohlenen Einstellungen. Oder wählen Sie unten benutzerdefinierte Startoptionen aus.
 
-Die erste Option legt den/die FAHClient-Slot\(s\) so fest, dass er bei der Windows-Anmeldung startet. Die zweite Option stellt den FAHClient-Slot so ein, dass er als Service läuft und nur in der FAHControl-Oberfläche sichtbar ist. Die dritte Option wird verwendet, um den FAHClient manuell über eine Verknüpfung zu starten. Die letzte Option \(Kontrollkästchen\) aktiviert den Bildschirmschoner-Modus von  Folding@home. 
+Die erste Option legt den F@H-Client so fest, dass er bei der Windows-Anmeldung startet. Die zweite Option stellt den F@H-Client so ein, dass er als Service läuft und nur in der FAHControl-Oberfläche sichtbar ist. Die dritte Option wird verwendet, um den F@H-Client manuell über eine Verknüpfung zu starten. Die letzte Option \(Kontrollkästchen\) aktiviert den Bildschirmschoner-Modus von Folding@Home. 
 
-Klicken Sie auf Installieren, um fortzufahren. Bitte warten Sie, bis Folding@home die Installation abgeschlossen hat.
+Klicken Sie auf Installieren, um fortzufahren. Bitte warten Sie, bis Folding@Home die Installation abgeschlossen hat.
 
 ![](../.gitbook/assets/wininst09.png)
 
@@ -66,7 +66,7 @@ Die Installation des Clients ist fast abgeschlossen:
 
 ![](../.gitbook/assets/wininst10.png)
 
-Hinweis: Deaktivieren Sie das Kontrollkästchen zum Starten von Folding@home nicht, damit die Software automatisch mit Windows startet. Wenn das Kästchen nicht angekreuzt ist, muss FAHClient jedes Mal manuell gestartet werden.
+Hinweis: Deaktivieren Sie das Kontrollkästchen zum Starten von Folding@Home nicht, damit die Software automatisch mit Windows startet. Wenn das Kästchen nicht angekreuzt ist, muss der F@H-Client jedes Mal manuell gestartet werden.
 
 Möglicherweise wird eine Eingabeaufforderung der Windows-Firewall oder einer anderen Sicherheitssoftware angezeigt.
 
@@ -78,5 +78,5 @@ Der Client startet darauf hin neu und zeigt die Konfigurationsseite an - die Ins
 
 ![](../.gitbook/assets/wininst12.png)
 
-Um die Konfiguration vornehmen zu können, ist die Option zur Angabe einer Identität auszuwählen. EIne anonyme Teilnahme wird nicht empfohlen,  da sonst keine Auswahl eines Namens und eines Teams möglich ist.
+Um die Konfiguration vornehmen zu können, ist die Option zur Angabe einer Identität auszuwählen. Eine anonyme Teilnahme wird nicht empfohlen,  da sonst keine Auswahl eines Namens und eines Teams möglich ist.
 
