@@ -10,7 +10,7 @@
   * [Auswahl des Teams](konfiguration/auswahl-des-teams.md)
   * [Unique key / Passkey \(optional\)](konfiguration/eindeutiger-schluessel-passkey-optional.md)
   * [Project selection](konfiguration/auswahl-des-projekts.md)
-* [Deinstallation of the client \(tbt\)](deinstallation-des-clients.md)
+* [Deinstallation of the client \(tbd\)](deinstallation-des-clients.md)
 * [Our Team](das-team.md)
 * [References](links.md)
 
