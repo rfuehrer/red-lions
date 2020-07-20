@@ -8,6 +8,8 @@ description: Gemeinsam. Digital. Für ein Heilmittel.
 For a different language of the manual, a further version of the manual can be selected in the upper left corner.
 {% endhint %}
 
+![](.gitbook/assets/xnip2020-07-20_12-44-28.png)
+
 An dieser Stelle möchten wir Euch eine Anleitung zur Einrichtung der Folding@Home-Clients zu Gunsten der COVID-19-Forschung an einem gemeinsamen, privaten Engagement mitzuwirken.
 
 Über die Navigation am linken Bildschirmrand könnt ihr die Schritte zur Einrichtung des Clients nachlesen. Im Grunde ist es aber ganz einfach:
