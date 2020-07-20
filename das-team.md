@@ -12,7 +12,7 @@ The idea was initiated by
 
 * Stephan Steinkühler \(GDIS VG\)
 * René Führer \(GDIS KB\) and 
-* Michael Motter \(GSS\) 
+* Michael Motter \(GSS Cloud\) 
 
 Other colleagues have joined our team after the release. Some of these colleagues have also participated in other teams on Folding@Home, but with "Red Insurance Lions" they have now found a team with whom they can identify \(perhaps even better\).
 

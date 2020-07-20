@@ -1,16 +1,17 @@
-# Auswahl des Teams \(tbt\)
+# Auswahl des Teams
 
-Beim ersten Aufruf oder durch Auswahl von dem Link “Change Identity” könnt ihr hier die wichtigsten Daten angeben:
+At the first call or by selecting the link "Change Identity" you can enter the most important data here:
 
 ![](../.gitbook/assets/img1.de.png)
 
-| _Feld_ | Inhalt |
+| _Field_ | Value |
 | :--- | :--- |
-| Name | _Dein Name oder Pseudonym \(möglichst eindeutig\)_ Passkey: _Dein individueller Passkey \(siehe Abschnitt “Passkey”\)_ |
+| Name | Your name or pseudonym \(as unique as possible\) |
+| Passkey | Your individual passkey \(see section "Passkey"\) |
 
-Wichtig ist die Eingabe der richtigen Team Number für das Red Insurance Lions Worldwide-Team:
+It is important to enter the correct Team ID for the Red Insurance Lions Worldwide team:
 
-| Feld | Inhalt |
+| Field | Value |
 | :--- | :--- |
 | Team Number | **263581** |
 

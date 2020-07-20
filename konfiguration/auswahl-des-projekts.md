@@ -1,40 +1,38 @@
 ---
-description: Wir tuen Gutes
+description: We do good
 ---
 
-# Auswahl des Projekts \(tbt\)
+# Project selection
 
-Nach Angabe des Namens, der Teamnummer und des Passkey gelangst Du nach Auswahl der Schaltfläche “Save” in die Übersicht. 
+After entering the name, the team number and the passkey you will get to the overview after selecting the "Save" button.
 
-In dieser Übersicht ist jetzt noch eine wichtige Einstellung vorzunehmen: das Projekt, welches Du unterstützen möchtest.
+In this overview you have to make one more important setting: the project you want to support.
 
 ![](../.gitbook/assets/img3.de.png)
 
-Du kannst aber auch jederzeit ein anderes Projekt unterstützen, da die Punkte nach jeder erfolgreicher Berechnung dem Team "Red Insurance Lions Worldwide" zugesprochen werden. Wir bitten Dich aber aktuell für das Projekt **COVID-19** rechnen zu lassen.
+You can also support another project at any time, as points are awarded to the Red Insurance Lions Worldwide team after each successful calculation. But we ask you to calculate for the project COVID-19.
 
-Hierzu ist folgende Auswahl in der Liste zu treffen:
+The following selection must be made in the list:
 
-| Feld | Inhalt |
+| Field | Value |
 | :--- | :--- |
 | I support research fighting | COVID-19 |
 
-Mit der Auswahl werden alle zukünftigen Berechnungen für dieses Projekt vorgenommen. 
+With the selection all future calculations for this project will be made.
 
 ![](../.gitbook/assets/img4.de.png)
 
-Möchtest Du zudem die Berechnung etwas schneller durchführen lassen und Du bist nicht auf die Performance Deines Systems angewiesen, dann kannst Du mit dem Schieberegler
+If you also want the calculation to be a little faster and you are not dependent on the performance of your system, you can use the slider
 
-| **Feld** | Inhalt |
+| **Field** | Value |
 | :--- | :--- |
 | POWER | Full |
 
-mehr Systemressourcen der Berechnung zusprechen. Das kannst Du natürlich jederzeit an Deine Systemleistung und Deine Anforderungen anpassen.
+to allocate more system resources to the calculation. Of course, you can always adjust this to your system performance and your requirements.
 
-Möchtet ihr, dass der Client nur arbeitet, wenn das System nicht ausgelastet \(Idle\) ist, wählt bitte die Option “Only when idle”.
+If you want the client to work only when the system is idle, please select the option "Only when idle".
 
-Damit wäre die grundlegende Einstellung abgeschlossen und ihr unterstützt das Projekt Folding@Home im Generali-Team. Unseren gemeinsamen Erfolg könnt Ihr auf der Seite
+This would complete the basic setting and you support the Folding@Home project in the Generali team. You can see our common success on the page
 
-[https://stats.foldingathome.org/team/263581](https://stats.foldingathome.org/team/263581)
-
-einsehen.
+[https://stats.foldingathome.org/team/263581](https://stats.foldingathome.org/team/263581) .
 

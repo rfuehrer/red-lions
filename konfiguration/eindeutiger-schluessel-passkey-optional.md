@@ -1,16 +1,16 @@
-# Eindeutiger Schlüssel / Passkey \(optional\) \(tbt\)
+# Unique key / Passkey \(optional\)
 
-Du kannst optional zu Deinem Namen/Pseudonym unter
+You can optionally add to your name/pseudonym under
 
 [https://apps.foldingathome.org/getpasskey](https://apps.foldingathome.org/getpasskey)
 
-einen individuellen Schlüssel \(Passkey\) erzeugen. Damit können die Punkte später Deinem Konto immer eindeutig zugeordnet werden. Außerdem gibt es Bonuspunkte, wenn Du Dir einen Passkey erzeugst und diesen im Client angibst.
+to generate an individual key \(passkey\). With this key, the points can always be clearly assigned to your account later. You will also receive bonus points if you create a passkey and enter it in the client.
 
 ![](../.gitbook/assets/img2.de.png)
 
-Er wird innerhalb weniger Minuten an Deine angegebene Email-Adresse gesendet.
+It will be sent to your specified email address within a few minutes.
 
 {% hint style="info" %}
-Bei Folding@Home können die Teilnehmer sich beliebige Namen geben. Sollten mehrere Benutzer identische Namen nutzen, können diese nicht unterschieden werden. Der Passkey stellt sicher, dass die Punkte nur Deinem Konto zugesprochen werden. Es ist damit eine Hilfe zur Unterscheidung der Konten.
+With Folding@Home, participants can give themselves any name they want. If several users use identical names, they cannot be distinguished. The passkey ensures that the points are only awarded to your account. It is therefore a help to distinguish between the accounts.
 {% endhint %}
 
