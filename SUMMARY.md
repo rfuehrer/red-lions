@@ -5,7 +5,7 @@
 * [Download of client](download-des-clients.md)
 * [Installation of the client](installation-des-clients/README.md)
   * [Installation on Windows](installation-des-clients/installation-unter-windows.md)
-  * [Installation on Mac \(tbd\)](installation-des-clients/installation-unter-mac.md)
+  * [Installation on Mac](installation-des-clients/installation-unter-mac.md)
 * [Configuration](konfiguration/README.md)
   * [Auswahl des Teams](konfiguration/auswahl-des-teams.md)
   * [Unique key / Passkey \(optional\)](konfiguration/eindeutiger-schluessel-passkey-optional.md)

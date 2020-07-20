@@ -1,82 +1,80 @@
-# Installation unter Windows \(tbt\)
+# Installation on Windows
 
-Dieser Abschnitt beschreibt die benutzerdefinierten Installation des F@HClients unter Windows XP und neuer. Es wird von einer Erstinstallation ausgegangen, und sofern nicht anders angegeben, ist die Standardeinstellung für jede Option die empfohlene Einstellung.
-
-{% hint style="info" %}
-Für die Installation eines V7 FAHClient-Steckplatzes zur Ausführung als Dienst \(eine Option etwas später im Setup\) muss das Windows XP-Benutzerkonto, unter dem das Installationsprogramm läuft, über Administratorrechte verfügen.
-{% endhint %}
-
-In Windows Vista und neueren Versionen muss das Installationsprogramm mit der Option Als Administrator ausführen geöffnet werden. Klicken Sie dazu mit der rechten Maustaste auf das Symbol des Installationsprogramms und dann auf Als Administrator ausführen. Wenn Sie zur Eingabe eines Administrator-Passworts oder zur Bestätigung aufgefordert werden, geben Sie das Passwort ein oder bestätigen Sie es.
+This section describes the custom installation of the F@H-Client on Windows XP and later. It assumes an initial installation, and unless otherwise specified, the default setting for each option is the recommended setting.
 
 {% hint style="info" %}
-Da Rechte eines Administrators erforderlich sind, wird die Installation auf Firmen-Systemen vielfach nicht möglich sein. Die Software ist für den Einsatz auf Firmen-eigener Hardware **nicht** freigegeben, daher bitten wir Euch, die Software nur auf privaten Systemen einzusetzen!
+To install a V7 F@H client to run as a service \(an option later in setup\), the Windows XP user account under which the installer runs must have administrative rights.
 {% endhint %}
 
-Doppelklicken Sie den heruntergeldenen Installer, um die Software-Installation zu starten. Möglicherweise wird beim Start eine Sicherheitswarnung angezeigt:
+In Windows Vista and newer versions, the installation program must be opened with the Run as Administrator option. To do this, right-click the installer icon, and then click Run as administrator. If you are prompted to enter or confirm an administrator password, enter or confirm the password.
+
+{% hint style="info" %}
+Since administrator rights are required, installation on company systems will often not be possible. The software is **not approved** for use on company-owned hardware, so we ask you to use the software only on private systems!
+{% endhint %}
+
+Double-click the downloaded installer to start the software installation. A security warning may be displayed at startup:
 
 ![](../.gitbook/assets/wininst01.png)
 
-Wenn Sie dazu aufgefordert werden, klicken Sie auf Ausführen oder auf Ja, um die Warnung zu bestätigen und die Installation fortzusetzen. 
+When prompted, click Run or Yes to confirm the warning and continue the installation. 
 
-Der Begrüßungsbildschirm wird angezeigt. Klicken Sie auf Weiter, um die Installation fortzusetzen.
+The welcome screen is displayed. Click Next to continue the installation.
 
 ![](../.gitbook/assets/wininst02.png)
 
-Lesen Sie die Lizenzvereinbarung \(siehe Abbildung 4\).
+Read the license agreement.
 
 ![](../.gitbook/assets/wininst03.png)
 
-Wenn Sie einverstanden sind, klicken Sie auf _I Agree_, um fortzufahren.
+If you agree, click on I Agree to continue. 
 
-Der Optionsbildschirm für den Installationsmodus wird angezeigt.
+The Installer Mode Options screen is displayed.
 
 ![](../.gitbook/assets/wininst04.png)
 
-Wählen Sie die Option Benutzerdefinierte Installation \(Erweitert\) wie abgebildet. Klicken Sie auf Weiter, um fortzufahren. Der Bildschirm Benutzer auswählen wird angezeigt:
+Select the Custom Installation \(Advanced\) option as shown. Click Next to continue. The Select User screen displays:
 
 ![](../.gitbook/assets/wininst05.png)
 
-Wählen Sie eine Option, für welche Benutzer die Software ausführt werden soll. Eine Installation nur für den angemeldeten Benutzer wird empfohlen. Klicken Sie auf Weiter.
+Select an option for which users the software is to run. Installation only for the logged-in user is recommended. Click on Next. 
 
-Der Bildschirm für den Installationsort wird angezeigt.
+The Install Location screen appears.
 
 ![](../.gitbook/assets/wininst06.png)
 
-Es kann ein alternativer Zielordner eingegeben werden, aber die vorgeschlagene Vorgabe wird empfohlen. Klicken Sie auf Weiter, um fortzufahren.
+An alternative destination folder can be specified, but the suggested default is recommended. Click Next to continue.
 
-![Anstelle von \[User\_Name\] wird der aktuelle Windows-Kontoname angezeigt.](../.gitbook/assets/wininst07.png)
+![The current Windows account name is displayed instead of \[User\_Name\].](../.gitbook/assets/wininst07.png)
 
-Der Bildschirm für den Speicherort der Kundendatendateien wird angezeigt. 
+The screen for the location of the user data files is displayed. 
 
-Ein alternativer Datenverzeichnisordner kann für die Konfiguration und den Speicherort der Datendateien eingegeben werden. Dies ist jedoch der empfohlene Standard. Klicken Sie auf Weiter.
+An alternate data directory folder can be entered for the configuration and location of the data files. However, this is the recommended default. Click Next.
 
 ![Wie m&#xF6;chten Sie den Client starten?](../.gitbook/assets/wininst08.png)
 
-Die Optionen zum Start der Software werden angezeigt. Diese sind sehr wichtig, um festzulegen, wie der FAHClient zukünftig gestartet wird. Außerdem wird ausgewählt, ob und wie die FAHClient-Steckplätze auf diesem Rechner von FAHControl gesteuert und überwacht werden.
+The options for starting the software are displayed. These are very important to determine how the F@H client will be started in the future. They also select whether and how the F@H client on this computer will be controlled and monitored by FAHControl.
 
-Die in der Abbildung dargestellten Optionen zum automatischen Start entsprechen den bei der Express-Installation verwendeten Standardeinstellungen und sind die empfohlenen Einstellungen. Oder wählen Sie unten benutzerdefinierte Startoptionen aus.
+The automatic startup options shown in the figure correspond to the default settings used during the Express installation and are the recommended settings. Or select custom startup options below. The first option sets the F@H client to start at Windows logon. The second option sets the F@H client to run as a service and be visible only in the FAHControl interface. The third option is used to start the F@H client manually using a shortcut. The last option \(checkbox\) activates the screen saver mode of Folding@Home.
 
-Die erste Option legt den/die FAHClient-Slot\(s\) so fest, dass er bei der Windows-Anmeldung startet. Die zweite Option stellt den FAHClient-Slot so ein, dass er als Service läuft und nur in der FAHControl-Oberfläche sichtbar ist. Die dritte Option wird verwendet, um den FAHClient manuell über eine Verknüpfung zu starten. Die letzte Option \(Kontrollkästchen\) aktiviert den Bildschirmschoner-Modus von  Folding@home. 
-
-Klicken Sie auf Installieren, um fortzufahren. Bitte warten Sie, bis Folding@home die Installation abgeschlossen hat.
+Click Install to continue. Please wait until Folding@Home has completed the installation.
 
 ![](../.gitbook/assets/wininst09.png)
 
-Die Installation des Clients ist fast abgeschlossen:
+The installation of the client is almost complete:
 
 ![](../.gitbook/assets/wininst10.png)
 
-Hinweis: Deaktivieren Sie das Kontrollkästchen zum Starten von Folding@home nicht, damit die Software automatisch mit Windows startet. Wenn das Kästchen nicht angekreuzt ist, muss FAHClient jedes Mal manuell gestartet werden.
+Note: Do not uncheck the checkbox to start Folding@Home so that the software starts automatically with Windows. If the box is unchecked, F@H client must be started manually each time.
 
-Möglicherweise wird eine Eingabeaufforderung der Windows-Firewall oder einer anderen Sicherheitssoftware angezeigt.
+You may see a Windows Firewall or other security software command prompt.
 
 ![](../.gitbook/assets/wininst11.png)
 
-Wenn Sie dazu aufgefordert werden, wählen Sie "Entsperren" oder "Zugriff für Software erlauben", um eine Verbindung mit dem Internet herzustellen zu können.
+When prompted, select "Unlock" or "Allow access for software" to connect to the Internet.
 
-Der Client startet darauf hin neu und zeigt die Konfigurationsseite an - die Installation ist abgeschlossen.
+The client will restart and display the configuration page - the installation is complete.
 
 ![](../.gitbook/assets/wininst12.png)
 
-Um die Konfiguration vornehmen zu können, ist die Option zur Angabe einer Identität auszuwählen. EIne anonyme Teilnahme wird nicht empfohlen,  da sonst keine Auswahl eines Namens und eines Teams möglich ist.
+In order to be able to configure the system, the option to specify an identity must be selected. Anonymous participation is not recommended, otherwise it is not possible to select a name and a team.
 
