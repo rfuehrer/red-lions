@@ -5,7 +5,9 @@ description: Gemeinsam. Digital. Für ein Heilmittel.
 # Kurzanleitung Ersteinrichtung des Folding@Home-Clients
 
 {% hint style="info" %}
-For a different language of the manual, a further version of the manual can be selected in the upper left corner. ![](.gitbook/assets/xnip2020-07-20_12-44-28.png)
+For a different language of the manual, a further version of the manual can be selected in the upper left corner.
+
+ ![](.gitbook/assets/xnip2020-07-20_12-44-28.png)
 {% endhint %}
 
 An dieser Stelle möchten wir Euch eine Anleitung zur Einrichtung der Folding@Home-Clients zu Gunsten der COVID-19-Forschung an einem gemeinsamen, privaten Engagement mitzuwirken.
@@ -16,7 +18,7 @@ An dieser Stelle möchten wir Euch eine Anleitung zur Einrichtung der Folding@Ho
 2. [Installation des Clients](installation-des-clients/)
 3. [Konfiguration des Clients](konfiguration/); folgende Werte sind für unser Team anzugeben
 
-|  Einstellung | Wert​ |
+| Einstellung | Wert​ |
 | :--- | :--- |
 | Project | COVID-19 |
 | Team name | The Red Insurance Lions - Worldwide |
