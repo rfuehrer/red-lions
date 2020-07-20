@@ -2,7 +2,7 @@
 description: Aller Anfang ist leicht ;)
 ---
 
-# Installation des Clients \(tbt\)
+# Installation of the client \(tbt\)
 
 Der Client ist je nach vorhandenem Betriebssystem wie jede Anwendung unter diesem Betriebssystem zu installieren. Bei der Installation wird ein Hintergrundprozess installiert, der die Berechnung je nach Benutzereinstellungen vornimmt. 
 
