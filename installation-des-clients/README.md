@@ -2,23 +2,23 @@
 description: Aller Anfang ist leicht ;)
 ---
 
-# Installation of the client \(tbt\)
+# Installation of the client
 
-Der Client ist je nach vorhandenem Betriebssystem wie jede Anwendung unter diesem Betriebssystem zu installieren. Bei der Installation wird ein Hintergrundprozess installiert, der die Berechnung je nach Benutzereinstellungen vornimmt. 
+Depending on the existing operating system, the client must be installed like any application under this operating system. During installation, a background process is installed that performs the calculation according to user settings.
 
 {% hint style="info" %}
-Die Ausführung als Hintergrundprozess stellt sicher, dass der Client bei jedem Systemstart ausgeführt wird und seine Berechnungen durchführen kann, wenn das System Kapazitäten dafür hat.
+Running as a background process ensures that the client is executed each time the system starts and can perform its calculations if the system has the capacity to do so.
 {% endhint %}
 
-Starte die heruntergeladene Datei und bestätigt die Dialoge der Installationsroutine. Für Windows gibt es eine ausführliche \(englische\) Anleitung:
+Start the downloaded file and confirm the installation routine dialogs. For Windows there is a detailed \(English\) manual:
 
 [https://foldingathome.org/support/faq/installation-guides/windows/custom-installation-advanced-users/](https://foldingathome.org/support/faq/installation-guides/windows/custom-installation-advanced-users/)
 
-Nach der Installation wird der Client automatisch im Hintergrund ausgeführt und ein erster Konfigurationsdialog angezeigt. In eurem Browser wird dazu eine ersten Übersicht geöffnet. Diese Übersicht kann später auch durch den Aufruf der Seite
+After installation, the client is automatically executed in the background and a first configuration dialog is displayed. A first overview is opened in your browser. This overview can also be displayed later by calling the page
 
-[http://client.foldingathome.org](http://client.foldingathome.org)
+ [http://client.foldingathome.org](http://client.foldingathome.org) 
 
-in Eurem Browser erneut erreicht werden. 
+in your browser can be reached again.
 
 
 
