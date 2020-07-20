@@ -6,6 +6,8 @@ description: Together. Digital. For a cure.
 
 {% hint style="info" %}
 Für eine andere Sprache der Anleitung kann oben links eine andere Version der Anleitung ausgewählt werden.
+
+ ![](.gitbook/assets/xnip2020-07-20_12-44-28.png)
 {% endhint %}
 
 At this point we would like to give you a guide to set up the Folding@Home clients for the benefit of COVID-19 research to participate in a common, private commitment. You can read the steps to set up the client by using the navigation on the left side of the screen. 
