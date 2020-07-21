@@ -4,6 +4,8 @@ description: Gemeinsam. Digital. Für ein Heilmittel.
 
 # Kurzanleitung Ersteinrichtung des Folding@Home-Clients
 
+
+
 {% hint style="info" %}
 For a different language of the manual, a further version of the manual can be selected in the upper left corner.
 
@@ -27,7 +29,9 @@ An dieser Stelle möchten wir Euch eine Anleitung zur Einrichtung der Folding@Ho
 Danach arbeitet das Programm bei jedem Systemstart automatisch in Hintergrund und unterstützt das Folding@Home-Projekt und unser Team.
 
 {% hint style="info" %}
-Wir bieten in der Zwischenzeit auch eine Backend-Komponente zur Ermittlung des Team-Ranking an. Wir können dadurch jede Veränderung eines Rankings ermitteln und nachvollziehen. Diese Funktion ist als Python in einem Docker flexible einsetzbar und kann auf jedes beliebige Team angepasst werden. Du findets weitere Informationen in [unserem Github Repository](https://github.com/generaliinformatik/fah-red-lions).
+Wir bieten eine Backend-Komponente zur Ermittlung des Team-Ranking als Open Source Software über unseren[ Github Repository](https://github.com/generaliinformatik/fah-red-lions) an. Mit Hilfe dieser Software kann jede Veränderung eines Team-Rankings ermittelt und nachvollzogen werden. 
+
+Diese Funktion ist als Python in einem Docker flexible einsetzbar und kann auf jedes beliebige Team angepasst werden. Du findets weitere Informationen in [unserem Github Repository](https://github.com/generaliinformatik/fah-red-lions).
 {% endhint %}
 
 In diesem Sinne:

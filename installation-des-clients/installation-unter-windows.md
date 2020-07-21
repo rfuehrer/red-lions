@@ -16,9 +16,9 @@ Doppelklicken Sie den heruntergeldenen Installer, um die Software-Installation z
 
 ![](../.gitbook/assets/wininst01.png)
 
-Wenn Sie dazu aufgefordert werden, klicken Sie auf Ausführen oder auf Ja, um die Warnung zu bestätigen und die Installation fortzusetzen. 
+Wenn Sie dazu aufgefordert werden, klicken Sie auf Ausführen oder auf _Ja_, um die Warnung zu bestätigen und die Installation fortzusetzen. 
 
-Der Begrüßungsbildschirm wird angezeigt. Klicken Sie auf Weiter, um die Installation fortzusetzen.
+Der Begrüßungsbildschirm wird angezeigt. Klicken Sie auf _Weiter_, um die Installation fortzusetzen.
 
 ![](../.gitbook/assets/wininst02.png)
 
@@ -32,23 +32,23 @@ Der Optionsbildschirm für den Installationsmodus wird angezeigt.
 
 ![](../.gitbook/assets/wininst04.png)
 
-Wählen Sie die Option Benutzerdefinierte Installation \(Erweitert\) wie abgebildet. Klicken Sie auf Weiter, um fortzufahren. Der Bildschirm Benutzer auswählen wird angezeigt:
+Wählen Sie die Option _Benutzerdefinierte Installation \(Erweitert\)_ wie abgebildet. Klicken Sie auf Weiter, um fortzufahren. Der Bildschirm Benutzer auswählen wird angezeigt:
 
 ![](../.gitbook/assets/wininst05.png)
 
-Wählen Sie eine Option, für welche Benutzer die Software ausführt werden soll. Eine Installation nur für den angemeldeten Benutzer wird empfohlen. Klicken Sie auf Weiter.
+Wählen Sie eine Option, für welche Benutzer die Software ausführt werden soll. Eine Installation nur für den angemeldeten Benutzer wird empfohlen. Klicken Sie auf _Weiter_.
 
 Der Bildschirm für den Installationsort wird angezeigt.
 
 ![](../.gitbook/assets/wininst06.png)
 
-Es kann ein alternativer Zielordner eingegeben werden, aber die vorgeschlagene Vorgabe wird empfohlen. Klicken Sie auf Weiter, um fortzufahren.
+Es kann ein alternativer Zielordner eingegeben werden, aber die vorgeschlagene Vorgabe wird empfohlen. Klicken Sie auf _Weiter_, um fortzufahren.
 
 ![Anstelle von \[User\_Name\] wird der aktuelle Windows-Kontoname angezeigt.](../.gitbook/assets/wininst07.png)
 
 Der Bildschirm für den Speicherort der Kundendatendateien wird angezeigt. 
 
-Ein alternativer Datenverzeichnisordner kann für die Konfiguration und den Speicherort der Datendateien eingegeben werden. Dies ist jedoch der empfohlene Standard. Klicken Sie auf Weiter.
+Ein alternativer Datenverzeichnisordner kann für die Konfiguration und den Speicherort der Datendateien eingegeben werden. Dies ist jedoch der empfohlene Standard. Klicken Sie auf _Weiter_.
 
 ![Wie m&#xF6;chten Sie den Client starten?](../.gitbook/assets/wininst08.png)
 
@@ -58,7 +58,7 @@ Die in der Abbildung dargestellten Optionen zum automatischen Start entsprechen 
 
 Die erste Option legt den F@H-Client so fest, dass er bei der Windows-Anmeldung startet. Die zweite Option stellt den F@H-Client so ein, dass er als Service läuft und nur in der FAHControl-Oberfläche sichtbar ist. Die dritte Option wird verwendet, um den F@H-Client manuell über eine Verknüpfung zu starten. Die letzte Option \(Kontrollkästchen\) aktiviert den Bildschirmschoner-Modus von Folding@Home. 
 
-Klicken Sie auf Installieren, um fortzufahren. Bitte warten Sie, bis Folding@Home die Installation abgeschlossen hat.
+Klicken Sie auf _Installieren_, um fortzufahren. Bitte warten Sie, bis Folding@Home die Installation abgeschlossen hat.
 
 ![](../.gitbook/assets/wininst09.png)
 
@@ -72,7 +72,7 @@ Möglicherweise wird eine Eingabeaufforderung der Windows-Firewall oder einer an
 
 ![](../.gitbook/assets/wininst11.png)
 
-Wenn Sie dazu aufgefordert werden, wählen Sie "Entsperren" oder "Zugriff für Software erlauben", um eine Verbindung mit dem Internet herzustellen zu können.
+Wenn Sie dazu aufgefordert werden, wählen Sie "_Entsperren_" oder "_Zugriff für Software erlauben_", um eine Verbindung mit dem Internet herzustellen zu können.
 
 Der Client startet darauf hin neu und zeigt die Konfigurationsseite an - die Installation ist abgeschlossen.
 
