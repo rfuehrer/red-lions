@@ -10,7 +10,9 @@
   * [Auswahl des Teams](konfiguration/auswahl-des-teams.md)
   * [Unique key / Passkey \(optional\)](konfiguration/eindeutiger-schluessel-passkey-optional.md)
   * [Project selection](konfiguration/auswahl-des-projekts.md)
-* [Deinstallation of the client \(tbd\)](deinstallation-des-clients.md)
+* [Deinstallation of the client \(tbd\)](deinstallation-des-clients/README.md)
+  * [Deinstallation on Windows \(tbd\)](deinstallation-des-clients/deinstallation-on-windows-tbd.md)
+  * [Deinstallation on Mac](deinstallation-des-clients/deinstallation-on-mac.md)
 * [Our Team](das-team.md)
 * [References](links.md)
 

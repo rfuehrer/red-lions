@@ -27,7 +27,9 @@ Basically it is quite simple:
 Afterwards the program works automatically in the background at every system start and supports the Folding@Home project and our team.
 
 {% hint style="info" %}
-In the meantime, we also offer a backend component to determine the team ranking. This enables us to determine and track every change in a ranking. This function can be used flexibly as a Python in a docker and can be adapted to any team. You can find more information in [our Github repository](https://github.com/generaliinformatik/fah-red-lions).
+We offer a backend component to determine the team ranking as open source software via our [Github repository](https://github.com/generaliinformatik/fah-red-lions). With the help of this software every change of a team ranking can be determined and tracked. 
+
+This function can be used flexibly as Python in a docker and can be adapted to any team. You can find more information in our [Github repository](https://github.com/generaliinformatik/fah-red-lions).
 {% endhint %}
 
 In that spirit:
